@@ -46,7 +46,7 @@
         <div class="text-center mt-4">
             <p> Esqueceu sua password? <a href="Forgot.aspx" id="lbl_forgot">Clique aqui</a></p>
             <br />
-            <p> Não tem uma conta? <a href="Register.aspx" id="lbl_register">Registar-se</a></p></div>
+            <p> Não tem uma conta? <a href="Registo.aspx" id="lbl_register">Registar-se</a></p></div>
 
     </div>
 
